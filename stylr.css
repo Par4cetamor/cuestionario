@@ -1,0 +1,47 @@
+* {
+    font-family: "Madimi One", sans-serif;
+  
+}
+
+body {
+    border: solid 5px gray;
+    border-radius: 50px;
+}
+
+#ban {
+    margin: 700 50 70 600;
+  
+    padding: 10px 10px 10px 10px;
+    height: 250px;
+    width: 250px;
+    border-radius: 100px;
+    border: solid 5px #656161;
+    background-color: hsl(0, 0%, 21%);
+    border-width: 2px;
+    border-color: black;
+    border:  solid;
+}
+
+
+.cather {
+    background-color: #656161;
+    border-radius: 100px;
+}
+
+.titulo {
+    padding-left: 600px;
+    padding-top: 100px;
+}
+
+.formulario {
+    padding-left: 100px;
+}
+
+a[href="#"] {
+color: red;
+text-decoration: none;
+}
+
+[type="radio"] {
+    margin: 10px;
+}
